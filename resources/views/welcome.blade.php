@@ -4,7 +4,7 @@
 <!-- Mirrored from demo.themeim.com/html/braine/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Mar 2024 05:29:46 GMT -->
 <head>
 <meta charset="utf-8">
-<title>Braine Digital Agency Business HTML-5 Template | Homepage 01</title>
+<title>Buraqsol Digital Agency Business HTML-5 Template | Homepage 01</title>
 <!-- Stylesheets -->
 <link href="{{ asset( 'frontend/assets/css/bootstrap.css') }}" rel="stylesheet">
 <link href="{{ asset( 'frontend/assets/css/style.css') }}" rel="stylesheet">
@@ -1222,7 +1222,7 @@
 						<div class="news-block_one">
 							<div class="news-block_one-inner">
 								<div class="news-block_one-image">
-									<a href="news-detail.html"><img src="{{ asset( 'frontend/assets/images/resource/news-1..jpg' ) }}" alt="" /></a>
+									<a href="news-detail.html"><img src="{{ asset( 'frontend/assets/images/resource/news-1.jpg' ) }}" alt="" /></a>
 								</div>
 								<div class="news-block_one-content">
 									<h5 class="news-block_one-title"><a href="news-detail.html">Transforming industries and shaping the future</a></h5>
@@ -1246,7 +1246,7 @@
 						<div class="news-block_one">
 							<div class="news-block_one-inner">
 								<div class="news-block_one-image">
-									<a href="news-detail.html"><img src="{{ asset( 'frontend/assets/images/resource/news-2..jpg' ) }}" alt="" /></a>
+									<a href="news-detail.html"><img src="{{ asset( 'frontend/assets/images/resource/news-2.jpg' ) }}" alt="" /></a>
 								</div>
 								<div class="news-block_one-content">
 									<h5 class="news-block_one-title"><a href="news-detail.html">Exploring the cutting-edge of artificial intelligence</a></h5>
@@ -1270,7 +1270,7 @@
 						<div class="news-block_one">
 							<div class="news-block_one-inner">
 								<div class="news-block_one-image">
-									<a href="news-detail.html"><img src="{{ asset( 'frontend/assets/images/resource/news-3..jpg' ) }}" alt="" /></a>
+									<a href="news-detail.html"><img src="{{ asset( 'frontend/assets/images/resource/news-3.jpg' ) }}" alt="" /></a>
 								</div>
 								<div class="news-block_one-content">
 									<h5 class="news-block_one-title"><a href="news-detail.html">Understanding the basics of artificial intelligence</a></h5>
