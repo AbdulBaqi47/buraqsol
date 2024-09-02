@@ -863,13 +863,13 @@ How can I help you?</P>
 
 
 
-<script src="{{ asset( 'backend/jsjquery1-3.4.1.min.js ' ) }}"></script>
+<script src="{{ asset( 'backend/js/jquery1-3.4.1.min.js ' ) }}"></script>
 
-<script src="{{ asset( 'backend/jspopper1.min.js ' ) }}"></script>
+<script src="{{ asset( 'backend/js/popper1.min.js ' ) }}"></script>
 
-<script src="{{ asset( 'backend/jsbootstrap1.min.js ' ) }}"></script>
+<script src="{{ asset( 'backend/js/bootstrap1.min.js ' ) }}"></script>
 
-<script src="{{ asset( 'backend/jsmetisMenu.js ' ) }}"></script>
+<script src="{{ asset( 'backend/js/metisMenu.js ' ) }}"></script>
 
 <script src = "{{ asset( 'backend/vendors/count_up/jquery.waypoints.min.js ' ) }}"></script>
 
@@ -898,7 +898,7 @@ How can I help you?</P>
 <script src = "{{ asset( 'backend/vendors/datepicker/datepicker.js ' ) }}"></script>
 <script src = "{{ asset( 'backend/vendors/datepicker/datepicker.en.js ' ) }}"></script>
 <script src = "{{ asset( 'backend/vendors/datepicker/datepicker.custom.js ' ) }}"></script>
-<script src="{{ asset( 'backend/jschart.min.js ' ) }}"></script>
+<script src="{{ asset( 'backend/js/chart.min.js ' ) }}"></script>
 
 <script src = "{{ asset( 'backend/vendors/progressbar/jquery.barfiller.js ' ) }}"></script>
 
@@ -915,7 +915,7 @@ How can I help you?</P>
 <script src = "{{ asset( 'backend/vendors/chart_am/kelly.js ' ) }}"></script>
 <script src = "{{ asset( 'backend/vendors/chart_am/chart-custom.js ' ) }}"></script>
 
-<script src="{{ asset( 'backend/jscustom.js ' ) }}"></script>
+<script src="{{ asset( 'backend/js//custom.js ' ) }}"></script>
 <script src = "{{ asset( 'backend/vendors/apex_chart/bar_active_1.js ' ) }}"></script>
 <script src = "{{ asset( 'backend/vendors/apex_chart/apex_chart_list.js ' ) }}"></script>
 </body>
